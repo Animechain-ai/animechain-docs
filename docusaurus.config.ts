@@ -6,8 +6,8 @@ const organizationName = "Animechain-ai";
 const projectName = "animechain-docs";
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Animechain.ai',
+  tagline: '革新的なアニメ制作のためのAIソリューション',
   favicon: 'img/favicon.ico',
 
   url: `https://whitepaper.animechain.ai/`,

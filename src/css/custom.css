@@ -14,7 +14,6 @@
   --ifm-color-primary-lighter: rgb(240, 92, 82);
   --ifm-color-primary-lightest: rgb(250, 128, 123);
   --ifm-code-font-size: 95%;
-  --ifm-footer-background-color: #e0e0e0;
 }
 
 html[data-theme='dark'] {
@@ -23,7 +22,16 @@ html[data-theme='dark'] {
   --ifm-color-secondary: #b0b0b0;
   --ifm-link-color: #d61000;
   --ifm-link-hover-color: #e74c3c;
-  --ifm-footer-background-color: #e0e0e0;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #ff3b2b;
+  --ifm-color-primary-dark: #ff1f0d;
+  --ifm-color-primary-darker: #ff1100;
+  --ifm-color-primary-darkest: #d30e00;
+  --ifm-color-primary-light: #ff5749;
+  --ifm-color-primary-lighter: #ff6558;
+  --ifm-color-primary-lightest: #ff8f85;
 }
 
 .docusaurus-highlight-code-line {
@@ -104,4 +112,14 @@ html[data-theme='dark'] .menu__link {
 
 html[data-theme='dark'] .menu__link:hover {
   color: #d61000; /* ホバー時のリンク色 */
+}
+
+/* Footerの背景色 */
+.footer {
+  background: linear-gradient(45deg, #1a1a1a, #2c2c2c);
+}
+
+/* ナビゲーションバーのタイトル色を赤に */
+.navbar__title {
+  color: var(--ifm-color-primary);
 }
