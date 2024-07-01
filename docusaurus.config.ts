@@ -10,8 +10,8 @@ const config: Config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
-  url: `https://${organizationName}.github.io`,
-  baseUrl: `/${projectName}/`,
+  url: `https://whitepaper.animechain.ai/`,
+  baseUrl: `/`,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
