@@ -59,17 +59,17 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: '',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Animechain.ai Logo',
+        src: 'img/logo.png',
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'WhitePaper',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -86,8 +86,16 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Official Site',
+              href: 'https://animechain.ai/',
+            },
+            {
+              label: 'WhitePaper',
               to: '/',
+            },
+            {
+              label: 'Litepaper',
+              to: 'https://animechain.ai/',
             },
           ],
         },
@@ -95,34 +103,21 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Medium',
+              href: 'https://medium.com/@anime_chain',
+            },              
+            {
+              label: 'X(Twitter)',
+              href: 'https://x.com/anime_chain',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'X(Twitter)(日本語)',
+              href: 'https://x.com/anime_chain_jp',
             },
           ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: `https://github.com/${organizationName}/${projectName}`,
-            },
-          ],
-        },
+        },          
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `©︎Animechain LLC All Rights Reserved.`,
     },
     prism: {
       theme: prismThemes.github,
