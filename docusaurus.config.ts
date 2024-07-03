@@ -57,7 +57,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/animechain-ai-social-card.png',
     navbar: {
       title: '',
       logo: {
@@ -67,7 +67,7 @@ const config: Config = {
       items: [
         {
           type: 'doc',
-          docId: 'introduction', // 正しいドキュメントIDを指定
+          docId: 'introduction',
           position: 'left',
           label: 'Whitepaper',
         },
