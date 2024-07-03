@@ -24,16 +24,6 @@ html[data-theme='dark'] {
   --ifm-link-hover-color: #e74c3c;
 }
 
-[data-theme='dark'] {
-  --ifm-color-primary: #ff3b2b;
-  --ifm-color-primary-dark: #ff1f0d;
-  --ifm-color-primary-darker: #ff1100;
-  --ifm-color-primary-darkest: #d30e00;
-  --ifm-color-primary-light: #ff5749;
-  --ifm-color-primary-lighter: #ff6558;
-  --ifm-color-primary-lightest: #ff8f85;
-}
-
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.1);
   display: block;
@@ -114,6 +104,18 @@ html[data-theme='dark'] .menu__link:hover {
   color: #d61000; /* ホバー時のリンク色 */
 }
 
+/* src/css/custom.css */
+:root {
+  --ifm-color-primary: #d61000; /* タイトルの赤色 */
+  --ifm-color-primary-dark: #c10e00;
+  --ifm-color-primary-darker: #b60d00;
+  --ifm-color-primary-darkest: #960b00;
+  --ifm-color-primary-light: #eb1200;
+  --ifm-color-primary-lighter: #f61300;
+  --ifm-color-primary-lightest: #ff2a17;
+  --ifm-code-font-size: 95%;
+}
+
 /* Footerの背景色 */
 .footer {
   background: linear-gradient(45deg, #1a1a1a, #2c2c2c);
@@ -122,4 +124,28 @@ html[data-theme='dark'] .menu__link:hover {
 /* ナビゲーションバーのタイトル色を赤に */
 .navbar__title {
   color: var(--ifm-color-primary);
+}
+
+/* ダークモード用の設定 */
+[data-theme='dark'] {
+  --ifm-color-primary: #ff3b2b;
+  --ifm-color-primary-dark: #ff1f0d;
+  --ifm-color-primary-darker: #ff1100;
+  --ifm-color-primary-darkest: #d30e00;
+  --ifm-color-primary-light: #ff5749;
+  --ifm-color-primary-lighter: #ff6558;
+  --ifm-color-primary-lightest: #ff8f85;
+}
+
+/* 画像のサイズ調整用クラス */
+.custom-img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Download PDFリンクのスタイル */
+.navbar__item--pdf {
+  font-size: 0.8rem; /* 文字サイズを小さく */
+  display: flex;
+  align-items: center;
 }

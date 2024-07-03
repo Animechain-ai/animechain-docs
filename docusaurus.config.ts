@@ -62,20 +62,20 @@ const config: Config = {
       title: '',
       logo: {
         alt: 'Animechain.ai Logo',
-        src: 'img/logo.png',
+        src: 'img/logo_red.svg',
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          type: 'doc',
+          docId: 'introduction', // 正しいドキュメントIDを指定
           position: 'left',
-          label: 'WhitePaper',
+          label: 'Whitepaper',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: `https://github.com/${organizationName}/${projectName}`,
-          label: 'GitHub',
+          href: '/pdf/Animechain_Whitepaper_v1.pdf',
+          label: 'Download PDF',
           position: 'right',
+          className: 'navbar__item--pdf',
         },
       ],
     },
