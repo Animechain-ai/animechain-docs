@@ -72,7 +72,7 @@ const config: Config = {
           label: 'Whitepaper',
         },
         {
-          href: '/pdf/Animechain_Whitepaper_v1.pdf',
+          href: 'pathname:///pdf/Animechain_whitepaper_v1.pdf',
           label: 'Download PDF',
           position: 'right',
           className: 'navbar__item--pdf',
