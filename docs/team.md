@@ -7,33 +7,29 @@ sidebar_position: 7
 
 Animechain.ai is an innovative project that combines blockchain technology, AI technology, and the techniques and know-how of anime. This project is realized by the collaboration of three companies, each with high technical capabilities and achievements in their respective fields. By bringing together the expertise and experience of each company, the project aims to create new value.
 
-### AiHUB Inc.
+## AiHUB Inc.
 
-AiHUB is a leading company in generative AI technology, boasting world-class numbers of downloads for its image generation AI models. Leveraging its advanced technical capabilities, it has also achieved great success in the fields of virtual humans and AI Tubers. It is highly accurate in data segmentation and annotation of anime images, enabling the analysis of animations that were previously difficult.
+AiHUB is a leading company in the field of generative AI technology, having developed image generation AI models that boast world-class download numbers. Leveraging its advanced technological capabilities, AiHUB has achieved significant success not only in the fields of virtual humans and AI YouTubers but also in the AI animation sector utilizing generative AI. The company is renowned for its high precision in data segmentation and annotation of anime images, enabling the analysis of animations that were previously challenging.
 
-AiHUB's technology is utilized not only for image generation but also for fine-tuning and merging AI models, effectively combining different AI models to realize higher-accuracy and multi-functional generative AI. In 2024, the company plans to establish a generative AI research institute to advance the development and practical application of new generative AI technologies, aiming to streamline animation production and improve quality. It is active at the forefront of generative AI technology, providing new value to the anime industry.
-
-### double jump.tokyo Inc.
-
-double jump.tokyo is a company with a strong track record in the fields of blockchain games, chain development and operation, and blockchain SaaS. Since its establishment in 2018, the company has been working on innovative projects utilizing blockchain technology. It is particularly a leader in blockchain game development and has strengths in developing and operating huge blockchain ecosystems and providing blockchain SaaS solutions for enterprises.
-
-Notable projects include "My Crypto Heroes" and "Sangokushi Taisen." "My Crypto Heroes" is an innovative blockchain game where characters and items can be traded on the blockchain, supported by many users for its unique gameplay and ownership of digital assets. "Sangokushi Taisen" combines elements of a card game with blockchain technology, offering a new type of game that can enjoy both strategy and ownership.
-
-The company is also involved in the operation and development of huge blockchain ecosystems such as "Oasys" and "HOME Verse." "Oasys" is a next-generation blockchain platform that realizes high-speed and low-cost transactions, providing innovative solutions in the fields of games and entertainment. "HOME Verse" is an ecosystem supporting activities in virtual spaces, where users can interact and trade while owning digital items.
-
-Furthermore, through the development of the enterprise blockchain SaaS platform "N Suite," the company efficiently supports enterprises' utilization of blockchain technology, such as digital asset management, transaction tracking, and smart contract execution.
+AiHUB's technology is utilized not only for image generation but also for fine-tuning and merging all types of AI models, effectively combining different AI models to create more accurate and multifunctional generative AI. In 2024, AiHUB plans to establish a Generative AI Research Institute to promote the development and practical application of new generative AI technologies, aiming to improve the efficiency and quality of animation production. AiHUB operates at the forefront of generative AI technology, providing new value to the anime industry.
 
 
-### Tokyo Otaku Mode Inc.
+## double jump.tokyo Inc.
 
-Tokyo Otaku Mode Inc. is a subsidiary of Shogakukan, one of Japan's leading publishers known for its extensive lineup of manga, books, and magazines. Established in 2011, Tokyo Otaku Mode's mission is to spread Japanese pop culture to the world, and it has been making strides in this direction ever since.
+double jump.tokyo is a company with a strong track record in blockchain game development, chain development and operation, and providing blockchain-based SaaS solutions. Since its establishment in 2018, the company has been working on innovative projects and is particularly known as a leader in blockchain game development.
 
-The company operates an online shop that sells a wide range of products related to Japanese pop culture, including figures, apparel, manga, art books, and more. These products are sourced from various creators and publishers, including Shogakukan itself, ensuring a direct connection to the source material. The shop has gained a loyal following among fans around the world who appreciate the authenticity and quality of the products offered.
+One of their flagship projects, "My Crypto Heroes," released in 2018, became the world's number one blockchain game. "Battle of Three Kingdoms" and "Shi-San-Sei Million Arthur" were realized through collaborations with major Japanese game companies, proving that double jump.tokyo is a team skilled at carefully handling the intellectual property (IP) of major game companies.
 
-In addition to its online shop, Tokyo Otaku Mode is also involved in planning and operating various events and projects aimed at promoting Japanese pop culture. One notable example is the "Otaku Coin" project, which was announced in 2017. This innovative initiative uses blockchain technology to directly connect fans and creators, allowing for a more engaging and rewarding experience for both parties.
+Furthermore, double jump.tokyo plays a key role in the operation and development of massive blockchains such as "Oasys" and "HOME Verse." "Oasys" is a next-generation blockchain that achieves high-speed and low-cost transactions, providing innovative solutions in the fields of gaming and entertainment.
 
-Another significant project undertaken by Tokyo Otaku Mode is the "CryptoNinja NFT" anime project, which was launched in 2022. The anime series, based on a manga published by Shogakukan, was released in October 2023 and quickly gained attention from fans and industry insiders alike. This project showcases the strong synergy between Tokyo Otaku Mode and its parent company, Shogakukan, and highlights the potential for further collaborations in the future.
+Additionally, through the development of the enterprise blockchain SaaS platform "N Suite," double jump.tokyo efficiently supports companies in utilizing blockchain technology.
 
-As a member of the Shogakukan family, Tokyo Otaku Mode is well-positioned to continue its growth and innovation in the years to come. With access to Shogakukan's vast resources and expertise in the pop culture industry, the company is poised to take on new challenges and lead the way in spreading Japanese pop culture worldwide. Through its online shop, events, and projects, Tokyo Otaku Mode is playing a key role in making Japanese pop culture more accessible and engaging for fans around the globe.
+## Tokyo Otaku Mode Inc.
+
+Tokyo Otaku Mode (TOM) is a leading global e-commerce and media company that brings the latest Japanese pop culture and anime merchandise to fans around the world. Founded in 2011, TOM has become a trusted source for authentic and high-quality products, offering a wide range of items including figures, apparel, accessories, and more. With a strong focus on customer satisfaction and a deep understanding of the anime and manga community, TOM has built a loyal following of passionate fans who appreciate their commitment to providing the best possible shopping experience.
+
+One of the key strengths of Tokyo Otaku Mode is its extensive network of partnerships with Japanese manufacturers, artists, and creators. These relationships allow TOM to offer exclusive and limited-edition products that cannot be found anywhere else, giving fans access to unique and highly sought-after items. Additionally, TOM works closely with its partners to ensure that all products meet the highest standards of quality and authenticity, so customers can be confident that they are receiving genuine merchandise.
+
+In addition to its e-commerce platform, Tokyo Otaku Mode also operates a popular media site that covers the latest news, trends, and events in the world of Japanese pop culture. The site features articles, interviews, and videos that provide in-depth coverage of anime, manga, games, and more, keeping fans informed and engaged with their favorite franchises and creators. Through its media presence, TOM has become a trusted authority in the anime and manga community, and has helped to promote and celebrate Japanese culture on a global scale. With its commitment to quality, authenticity, and customer satisfaction, Tokyo Otaku Mode is poised to continue its growth and success as a leading destination for fans of Japanese pop culture around the world.
 
 

@@ -93,10 +93,10 @@ const config: Config = {
               label: 'WhitePaper',
               to: '/',
             },
-            {
-              label: 'Litepaper',
-              to: 'https://animechain.ai/',
-            },
+            // {
+            //   label: 'Litepaper',
+            //   to: 'https://animechain.ai/',
+            // },
           ],
         },
         {

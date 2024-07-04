@@ -8,7 +8,6 @@ sidebar_position: 6
 
 ## Milestones in Technology Development
 
-
 ### Prototype Development and Proof of Concept
 
 Animechain.ai's prototype development plan aims to conduct technical verification in the early stages. First, basic functions are implemented, and proof-of-concept experiments are conducted to confirm the practical usability in anime production sites. This identifies initial technical challenges and considers solutions to them. Specifically, the focus is on improving the accuracy of AI generation models, streamlining data management, and ensuring the stability of blockchain infrastructure.
@@ -42,4 +41,3 @@ The formation and support of the creator community are also important elements o
 Ultimately, Animechain.ai aims for global expansion. Collaborations with overseas anime studios and creators are strengthened, and the formation of local communities is promoted. This enables creators from around the world to participate in the Animechain.ai ecosystem, realizing the exchange of technology and knowledge from a global perspective. Furthermore, marketing activities in local areas increase awareness of Animechain.ai and establish an international presence.
 
 Through these strategies, Animechain.ai simultaneously realizes technological progress and ecosystem expansion, aiming to innovate the future of anime production.
-

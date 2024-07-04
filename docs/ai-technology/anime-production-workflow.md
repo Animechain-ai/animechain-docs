@@ -4,9 +4,7 @@ title: "Anime Production Workflow Using Animechain.ai"
 sidebar_label: "Anime Production Workflow"
 sidebar_position: 5
 ---
-## Transforming Anime Production with Generative AI: From Traditional Methods to AI-Enhanced Creativity
-
-### General Anime Production Process
+## General Anime Production Process
 
 The general anime production process involves several stages, including planning, pre-production, production, and post-production. Each stage requires close collaboration between various departments and skilled professionals.
 
@@ -18,8 +16,7 @@ The production stage is where the actual animation is created. This involves key
 
 Finally, post-production involves editing the completed animation, adding sound effects and music, and finalizing the product for distribution. Rigorous quality control checks are also performed to ensure the final product meets the desired standards.
 
-
-### Transformation of Traditional Anime Production by Generative AI
+## Transformation of Traditional Anime Production by Generative AI
 
 Generative AI is transforming various aspects of anime production, from pre-production to post-production. By automating and streamlining tasks, AI technology empowers creators to focus on more creative aspects of the process.
 
@@ -28,17 +25,16 @@ In pre-production, generative AI aids in character design, background art creati
 During the production stage, generative AI can automate tasks such as key frame generation, in-between animation, and coloring. AI models trained on large datasets of anime frames can predict and generate intermediate frames, alleviating animators' workload. Additionally, AI can assist in coloring by automatically applying color palettes to frames based on reference images.
 
 In post-production, generative AI contributes to tasks like automatic lip-syncing, where AI models analyze dialogue and generate corresponding mouth movements for characters, saving time and effort. AI can also assist in generating sound effects and music that complement the mood and tone of scenes.
-    
+
     
 <img src="/img/img4_workflow.png" className="custom-img"/>
 
 
 
 ## Animechain.ai's Anime Creation Tool
-
-
     
 <img src="/img/img5_creationTool.png" className="custom-img"/>
+
 
 
     Animechain.ai's Anime Creation Tool is a comprehensive platform that seamlessly integrates generative AI technology with blockchain-based solutions to streamline the anime production workflow. The tool offers a user-friendly interface, enabling creators to leverage AI capabilities throughout various production stages.
@@ -60,4 +56,3 @@ In post-production, generative AI contributes to tasks like automatic lip-syncin
 
 
     By harnessing the power of generative AI and blockchain technology, Animechain.ai's Anime Creation Tool revolutionizes the anime production workflow. It empowers creators to produce high-quality content more efficiently and collaboratively by streamlining various aspects of production, from pre-production to post-production, allowing creators to focus on their artistic vision while technology handles repetitive and time-consuming tasks.
-

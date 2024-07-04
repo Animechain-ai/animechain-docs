@@ -5,33 +5,36 @@ sidebar_label: "Token Economy"
 sidebar_position: 3
 ---
 
-The distribution plan for Animechain tokens is strategically designed to promote the growth of the ecosystem. The allocation of tokens to each stakeholder is clearly defined, supporting the development of the entire ecosystem. Tokens are provided to creators as rewards for creating new works, to studios as rewards for production support and project management, to AI developers as rewards for developing and improving generative AI technology, and to the community as rewards for contributing to the ecosystem, such as participating in events and providing feedback.
+Tokens are distributed as follows:
 
-The circulation method of tokens and the mechanism for managing inflation are important elements supporting the sustainable development of the ecosystem. The circulation volume of tokens is appropriately adjusted according to the growth and demand of the ecosystem, stabilizing the value of tokens and maintaining a healthy economic environment. Furthermore, the supply of tokens is regularly reviewed for inflation management, maintaining the long-term value of tokens and ensuring the sustainable growth of the ecosystem. This allows for adjusting the supply of tokens to prevent excessive inflation and maintain the balance of the entire ecosystem.
+* **Creators:** Rewarded for creating new works.
+* **Studios:** Rewarded for production support and project management.
+* **AI Developers:** Rewarded for developing and improving generative AI technology.
+* **Community:** Rewarded for ecosystem contributions like event participation and feedback.
 
-Animechain.ai's token economy is an important element supporting the growth and sustainability of the ecosystem. Animechain tokens promote the revitalization and sustainable growth of the ecosystem through value exchange, governance participation, and providing incentives. This creates an environment where all participants can participate with peace of mind, and creators can continue to produce high-quality works.
 
-Animechain.ai’s token allocation is as follows:
+### Token Circulation and Inflation Management
 
-#### Ecosystem / Community Treasury:
+The circulation and inflation management mechanisms are crucial for the ecosystem's long-term sustainability. Token circulation volume is adjusted based on ecosystem growth and demand, stabilizing token value and maintaining a healthy economic environment. Regular reviews of the token supply manage inflation, preserving long-term value and ensuring sustainable growth. This allows adjustments to prevent excessive inflation and maintain overall balance.
 
-Allocation for incentivizing and rewarding those who actively contribute to the Animechain.ai ecosystem. This includes providing data, computational resources (GPUs), participating in anime staking, reporting bugs, and more. A portion will also be used for the public sale, providing initial support for Animechain.ai.
 
-#### Direct Contributors:
+### Animechain.ai Token Economy
 
-Allocation for individuals or teams directly involved in building Animechain.ai through development, marketing, and related activities. This includes contributing to the core foundation model, developing anime production tools, and creating applications essential for the ecosystem's growth.
+The Animechain.ai token economy is fundamental to the ecosystem's growth and sustainability. Animechain.aitokens drive value exchange, enable governance participation, and provide incentives, fostering an environment where all participants can thrive. This empowers creators to produce high-quality works while ensuring the ecosystem's long-term viability.
 
-#### Early Backers:
 
-Allocation for investors who supported Animechain.ai from its inception, including seed round funding and private sales.
+### Detailed Token Allocation
 
-#### Team & Advisors:
+Animechain.ai's token allocation is as follows:
 
-Rewards for the founding team responsible for conceptualizing Animechain.ai, along with advisors in AI technology, blockchain technology, and their strategic application.
 
-#### Strategic Treasury:
 
-Allocation for initiatives aimed at strategically expanding the Animechain.ai ecosystem. This includes providing liquidity, listing on exchanges, and airdrops to recognize and reward early contributors.
+* **Ecosystem / Community Treasury:** Allocated to incentivize and reward active contributors to the Animechain.ai ecosystem, including data providers, GPU providers, anime stakers, bug reporters, and more. A portion will also be used for the public sale, providing initial support for Animechain.ai.
+* **Direct Contributors:** Allocated to individuals or teams directly involved in building Animechain.ai, including development, marketing, and related activities. This includes contributions to the core foundation model, anime production tools, and essential applications.
+* **Early Backers:** Allocated to early investors who supported Animechain.ai through seed round funding and private sales.
+* **Team & Advisors:** Rewards for the founding team and advisors in AI, blockchain, and strategic areas.
+* **Strategic Treasury:** Allocated for strategic initiatives to expand the Animechain.ai ecosystem, including liquidity provision, exchange listings, and airdrops for early contributors.
+
 
 <table>
   <tr>

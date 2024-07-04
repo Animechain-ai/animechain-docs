@@ -36,7 +36,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Animechain.ai\'s Layer 2: Anima Blockchain',
+      label: 'Layer 2: ANIMA Blockchain',
       items: [
         'blockchain-technology/data-traceability',
         'blockchain-technology/layer2-solution',

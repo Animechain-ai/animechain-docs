@@ -108,4 +108,5 @@ Tokens do not constitute financial products such as securities or derivatives an
 
 Tokens must not be sold or used in regions where the sale or use of digital currencies, digital assets, virtual assets, or crypto assets is prohibited. If violated, the responsibility lies with the individual, and the author and related parties assume no responsibility.
 
-
+#### References
+(*1) Anime Market Size, Share & Trends Analysis Report. Retrieved from https://www.gii.co.jp/report/grvi1446475-anime-market-size-share-trends-analysis-report-by.html
