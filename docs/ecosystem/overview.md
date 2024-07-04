@@ -12,12 +12,12 @@ The Animechain.ai ecosystem thrives on the diverse contributions of creators, an
 * **Anime Studios:** Provide expertise and infrastructure to realize creators' visions and manage production.
 * **AI Developers:** Develop and improve generative AI technology, incorporating the latest advancements.
 * **Fans:** Support creators by purchasing tokens and providing feedback, driving the ecosystem's vitality.
-* **Copyright Holders:** Supply essential data, forming the foundation of the ecosystem. They are rewarded with Animechain.aitokens for their contribution, ensuring a sustainable data supply while protecting their rights.
+* **Copyright Holders:** Supply essential data, forming the foundation of the ecosystem. They are rewarded with Animechain.ai tokens for their contribution, ensuring a sustainable data supply while protecting their rights.
 
 
 ### Value Circulation and Sustainable Growth
 
-The ecosystem's sustainable growth depends on the circulation of value. New value is created when creators produce new works that resonate with fans. Revenues are distributed fairly to creators and studios through tokens, recognizing their efforts. These rewards are often reinvested in new projects, fueling the ecosystem's continuous growth. This cycle of value creation and circulation ensures the ongoing vitality of the entire Animechain.ai ecosystem.
+The ecosystem's sustainable growth depends on the circulation of value. New value is created when creators produce new works that resonate with fans. These rewards are often reinvested in new projects, fueling the ecosystem's continuous growth. This cycle of value creation and circulation ensures the ongoing vitality of the entire Animechain.ai ecosystem.
 
 
 ### Copyright Holders: A Critical Pillar

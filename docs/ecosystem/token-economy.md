@@ -5,22 +5,17 @@ sidebar_label: "Token Economy"
 sidebar_position: 3
 ---
 
-Tokens are distributed as follows:
-
-* **Creators:** Rewarded for creating new works.
-* **Studios:** Rewarded for production support and project management.
-* **AI Developers:** Rewarded for developing and improving generative AI technology.
-* **Community:** Rewarded for ecosystem contributions like event participation and feedback.
+The Animechain.ai token distribution plan is strategically designed to fuel ecosystem growth. It clearly defines token allocation for each stakeholder, ensuring the comprehensive development of the platform.
 
 
-### Token Circulation and Inflation Management
+### Token Circulation
 
-The circulation and inflation management mechanisms are crucial for the ecosystem's long-term sustainability. Token circulation volume is adjusted based on ecosystem growth and demand, stabilizing token value and maintaining a healthy economic environment. Regular reviews of the token supply manage inflation, preserving long-term value and ensuring sustainable growth. This allows adjustments to prevent excessive inflation and maintain overall balance.
+The circulation and inflation management mechanisms are crucial for the ecosystem's long-term sustainability. Token circulation volume is adjusted based on ecosystem growth and demand, stabilizing token value and maintaining a healthy economic environment.
 
 
 ### Animechain.ai Token Economy
 
-The Animechain.ai token economy is fundamental to the ecosystem's growth and sustainability. Animechain.aitokens drive value exchange, enable governance participation, and provide incentives, fostering an environment where all participants can thrive. This empowers creators to produce high-quality works while ensuring the ecosystem's long-term viability.
+The Animechain.ai token economy is fundamental to the ecosystem's growth and sustainability. Animechain.ai tokens drive value exchange, enable governance participation, and provide incentives, fostering an environment where all participants can thrive. This empowers creators to produce high-quality works while ensuring the ecosystem's long-term viability.
 
 
 ### Detailed Token Allocation

@@ -12,7 +12,7 @@ The anime industry has experienced continuous growth over the past 50 years. Jap
 
 In recent years, the proliferation of streaming platforms has dramatically changed the viewing environment for anime. With the emergence of global streaming services like Netflix, anime has become accessible to viewers worldwide. This widespread availability has led to rapid expansion of the anime market, with reports indicating that the market size of the anime industry exceeded $24 billion in 2019.
 
-Furthermore, projections for the anime market size up to 2030 suggest an annual growth rate exceeding 8%, with the potential for the market size to reach $165 billion(*1). Anime is no longer limited to a specific age group but has evolved into content all age demographics enjoy. This growth demonstrates anime's ability to appeal to a broad audience by addressing diverse genres and themes.
+Furthermore, projections for the anime market size up to 2030 suggest an annual growth rate exceeding 8%, with the potential for the market size to reach $65 billion(*1). Anime is no longer limited to a specific age group but has evolved into content all age demographics enjoy. This growth demonstrates anime's ability to appeal to a broad audience by addressing diverse genres and themes.
 
 
 ## Labor Shortages in Production and the Urgent Need for Efficiency
