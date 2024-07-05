@@ -71,12 +71,12 @@ const config: Config = {
           position: 'left',
           label: 'Whitepaper',
         },
-        // {
-        //   href: 'pathname:///pdf/Animechain_whitepaper_v1.pdf',
-        //   label: 'Download PDF',
-        //   position: 'right',
-        //   className: 'navbar__item--pdf',
-        // },
+        {
+          href: 'pathname:///pdf/Animechain_whitepaper_v1.pdf',
+          label: 'Download PDF',
+          position: 'right',
+          className: 'navbar__item--pdf',
+        },
       ],
     },
     footer: {
