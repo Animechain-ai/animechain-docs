@@ -8,19 +8,20 @@ sidebar_position: 6
 
 ## Milestones in Technology Development
 
+
 ### Prototype Development and Proof of Concept
 
-Animechain.ai's prototype development plan aims to conduct technical verification in the early stages. First, basic functions are implemented, and proof-of-concept experiments are conducted to confirm the practical usability in anime production sites. This identifies initial technical challenges and considers solutions to them. Specifically, the focus is on improving the accuracy of AI generation models, streamlining data management, and ensuring the stability of blockchain infrastructure.
+The initial focus is on technical verification through prototype development. This involves implementing basic functions and conducting proof-of-concept experiments to confirm the practical usability of Animechain.ai in anime production. Early challenges are identified and solutions explored, with emphasis on improving AI model accuracy, streamlining data management, and ensuring blockchain infrastructure stability.
 
 
 ### Advanced Anime-Specific AI Models
 
-The next milestone is to improve the performance of anime-specific AI models and add new functions. This phase actively incorporates feedback from creators to improve the usability and quality of AI models. For example, more advanced AI technologies are introduced, such as automating character design, rendering complex scenes, and generating background art. User interface improvements are also made in parallel to enhance usability.
+The next milestone involves enhancing AI model performance and functionality. This will be driven by active incorporation of creator feedback to improve usability and quality. The introduction of advanced AI technologies will focus on automating complex aspects of anime creation, such as character design, scene rendering, and background art generation. User interface improvements will be made in parallel to enhance the overall user experience.
 
 
 ### Expanding and Enhancing Blockchain Infrastructure
 
-Expansion and enhancement of the blockchain infrastructure are also important milestones. This includes improving scalability, enhancing transaction processing speed, and strengthening security. Furthermore, smart contracts are advanced to promote the automation of rights management and compensation distribution. This builds a robust foundation to support the growth of the entire ecosystem.
+A critical milestone is the expansion and enhancement of the blockchain infrastructure to ensure scalability, transaction speed, and security. Smart contract capabilities will be advanced to automate rights management and compensation distribution, building a solid foundation for ecosystem growth.
 
 
 ## Strategies for Ecosystem Expansion
@@ -28,16 +29,16 @@ Expansion and enhancement of the blockchain infrastructure are also important mi
 
 ### Partnerships with Anime Production Companies
 
-The first step in expanding the ecosystem is to build partnerships with major anime production companies. This introduces Animechain.ai's technology into actual anime production sites and demonstrates its effectiveness. Through joint development and pilot projects, specific success stories are created, demonstrating the reliability and usefulness of the technology.
+The first step in ecosystem expansion involves partnering with major anime production companies. This introduces Animechain.ai's technology into real-world production environments, showcasing its effectiveness. Joint development and pilot projects will demonstrate the reliability and value of the platform through tangible success stories.
 
 
-### Forming and Supporting Creator Communities
+### Fostering and Supporting Creator Communities
 
-The formation and support of the creator community are also important elements of ecosystem expansion. Through workshops, events, and grants, creators' activities are promoted, and their creativity is maximized. Furthermore, building an online community activates the exchange and sharing of information between creators, supporting the growth of the entire community.
+A key element in ecosystem growth is the cultivation of a vibrant creator community. Workshops, events, and grants will empower creators and stimulate their creativity. The development of an online community will facilitate the exchange of knowledge and resources, nurturing the growth of the entire network.
 
 
 ### Global Market Expansion
 
-Ultimately, Animechain.ai aims for global expansion. Collaborations with overseas anime studios and creators are strengthened, and the formation of local communities is promoted. This enables creators from around the world to participate in the Animechain.ai ecosystem, realizing the exchange of technology and knowledge from a global perspective. Furthermore, marketing activities in local areas increase awareness of Animechain.ai and establish an international presence.
+Ultimately, Animechain.ai envisions global reach. This entails strengthening collaborations with international anime studios and creators, along with the establishment of local communities. This strategy enables creators worldwide to participate in the Animechain.ai ecosystem, fostering global exchange of technology and expertise. Targeted marketing activities in local markets will raise awareness of Animechain.ai and establish an international presence.
 
-Through these strategies, Animechain.ai simultaneously realizes technological progress and ecosystem expansion, aiming to innovate the future of anime production.
+By pursuing these strategies, Animechain.ai will achieve simultaneous technological advancement and ecosystem expansion, ultimately transforming the future of anime production.

@@ -10,7 +10,7 @@ The Animechain.ai token distribution plan is strategically designed to fuel ecos
 
 ### Token Circulation
 
-The circulation and inflation management mechanisms are crucial for the ecosystem's long-term sustainability. Token circulation volume is adjusted based on ecosystem growth and demand, stabilizing token value and maintaining a healthy economic environment.
+The circulation management mechanisms are crucial for the ecosystem's long-term sustainability. Token circulation volume is adjusted based on ecosystem growth and demand, stabilizing token value and maintaining a healthy economic environment.
 
 
 ### Animechain.ai Token Economy
